@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org">
+<suite name="Grid Cross Browser Suite" thread-count="3" parallel="tests">
+
+  <!-- Test Block 1: Chrome Execution -->
+  <test name="ChromeTest">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test>
+
+  <!-- Test Block 2: Firefox Execution -->
+  <test name="FirefoxTest">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test> <!-- Fixed: Changed from 2/test> to clean closing tag -->
+
+  <!-- Test Block 3: Edge Execution -->
+  <test name="EdgeTest">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test>
+
+</suite>
