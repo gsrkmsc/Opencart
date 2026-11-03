@@ -7,6 +7,7 @@ C:\Eclipse\Testing Practice Project\Opencart\src\test\java\testBase\BaseClass.ja
 C:\Eclipse\Testing Practice Project\Opencart\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Eclipse\Testing Practice Project\Opencart\src\test\java\testCases\TC002_LoginTest.java
 C:\Eclipse\Testing Practice Project\Opencart\src\test\java\testCases\TC003_LoginDDT.java
+C:\Eclipse\Testing Practice Project\Opencart\src\test\java\testCases\TC004_Search.java
 C:\Eclipse\Testing Practice Project\Opencart\src\test\java\utilities\DataProviders.java
 C:\Eclipse\Testing Practice Project\Opencart\src\test\java\utilities\Excelutility.java
 C:\Eclipse\Testing Practice Project\Opencart\src\test\java\utilities\ExtentReportManager.java

@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-11-02T16:22:24 IST" name="Suite" finished-at="2026-11-02T16:22:24 IST" duration-ms="0">
+  <suite started-at="2026-11-03T11:47:35 IST" name="Suite" finished-at="2026-11-03T11:47:35 IST" duration-ms="0">
     <groups>
       <group name="Master">
         <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@f1da57d]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
@@ -21,7 +21,7 @@
       </group> <!-- sanity -->
     </groups>
   </suite> <!-- Suite -->
-  <suite started-at="2026-11-02T16:22:24 IST" name="Suite (0)" finished-at="2026-11-02T16:22:24 IST" duration-ms="0">
+  <suite started-at="2026-11-03T11:47:35 IST" name="Suite (0)" finished-at="2026-11-03T11:47:35 IST" duration-ms="0">
     <groups>
       <group name="Master">
         <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@2657d4dd]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
